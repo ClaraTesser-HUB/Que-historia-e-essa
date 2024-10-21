@@ -1,3 +1,65 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+.btn-PGM{
+background-color: red ;
+}
+.btn-SGM{
+    background-color: red;
+}
+.btn-RA{
+background-color: blue;
+}
 .btn-PRI{
-background-color: ;
+background-color: purple;
+}
+.btn-RF{
+background-color: blue;
+}
+.btn-SRI{
+background-color: purple;
+}
+.btn-TRI{
+background-color: purple;
+}
+.btn-RR{
+background-color: blue;
+}
+.btn-EN{
+background-color: purple;
+}
+.btn-DB{
+background-color: green;
+}
+.btn-IB{
+background-color: red
+}
+.btn-AE{
+background-color: purple;
+}
+.btn-PB{
+background-color: red;
+}
+.btn-RV{
+    background-color: brown;
+}
+.btn-SA{
+background-color: blue;
+}
+.btn-EV{
+background-color: green;
+}
+.btn-QR{
+background-color: green;
+}
+.btn-DM{
+    background-color: green;
+}
+.card-img-top{
+    height: 200px;
+    object-fit: cover;
+}
+.card:hover{
+    transform: scale(1.10);
+    transition: 0.6s;
+    z-index: 100;
+    cursor: pointer;
 }
