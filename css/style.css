@@ -64,6 +64,6 @@ background-color: rgb(101,67,33);
     z-index: 100;
     cursor: pointer;
 }
-.card{
-    
+.img{
+    border-color: aliceblue;
 }
