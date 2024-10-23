@@ -8,7 +8,7 @@ html, body{
     font-family: 'Old Standard TT', cursive;
 }
 .btn-PGM{
-background-color: rgb(78, 50, 15);
+background-color: rgb(78, 50, 15)
 }
 .btn-SGM{
     background-color: rgb(78, 50, 15);;
@@ -26,7 +26,7 @@ background-color: rgb(160,82,45);
 background-color: rgb(139,69,19);
 }
 .btn-TRI{
-background-color: rgb(139,69,19);
+background-color: #8b4513;
 }
 .btn-RR{
 background-color: rgb(160,82,45);
@@ -47,10 +47,10 @@ background-color: rgb(139,69,19);
 background-color: rgb(78, 50, 15);;
 }
 .btn-RV{
-    background-color: rgb(111,78,55);
+    background-color: rgb(133, 98, 73);
 }
 .btn-SA{
-background-color: rgb(160,82,45);
+background-color: #a0522d;
 }
 .btn-EV{
 background-color: rgb(101,67,33);
@@ -59,8 +59,7 @@ background-color: rgb(101,67,33);
 background-color: rgb(101,67,33);
 }
 .btn-DM{
-    background-color:  rgb(111,78,55)
-    ;
+    background-color:  rgb(111, 78, 55);
 }
 .card-img-top{
     height: 200px;
